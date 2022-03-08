@@ -1,1 +1,2 @@
-# Sample-ML-Repo
+# ML-Repo
+## Ishanov Batyr
